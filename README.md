@@ -11,12 +11,12 @@ tHub项目
 
 支持三种访问协议：
 
-* HTTP协议: `https://github.com/gotgithub/helloworld.git` 。
-* Git协议: `git://github.com/gotgithub/helloworld.git` 。
-* SSH协议: `ssh://git@github.com/gotgithub/helloworld.git` 。
+* HTTP协议: https://github.com/hanlicun/Yii2_demo.git 
+* Git协议:  git://github.com/hanlicun/Yii2_demo.git 
+* SSH协议:  ssh://github.com/hanlicun/Yii2_demo.git 
 
 ## 克隆版本库
 
 操作示例：
 
-    $ git clone git://github.com/gotgithub/helloworld.git
+    $ git clone git://github.com/hanlicun/Yii2_demo.git
